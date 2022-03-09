@@ -44,4 +44,4 @@ This project exists in its current state thanks to all the people who have contr
 </a>
 
 ## License
-TML is licensed under the [MIT license](https://github.com/tModLoader/tModLoader/blob/master/LICENSE)
+TML is licensed under the [MIT license](https://github.com/tModLoader/tModLoader/blob/master/LICENSE) 
